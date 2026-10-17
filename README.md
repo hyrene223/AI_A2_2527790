@@ -98,8 +98,7 @@ The dataset is synthetic, small, and generated from assignment-specific assumpti
 - Seed: `7790`
 - Verification code: `AI-A2-7790`
 - Repository URL: https://github.com/hyrene223/AI_A2_2527790
-- Final commit hash: Will be added after the final commit.
-
+- Submission content commit hash: To be updated after the demo video is committed.
 ## Declaration and AI Use
 
 Include the required assignment declaration and AI-use disclosure in the submission evidence. Accurately disclose any AI assistance used and personally verify all submitted code, analysis, and documentation.
