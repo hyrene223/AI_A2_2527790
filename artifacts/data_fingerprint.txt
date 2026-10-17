@@ -1,0 +1,5 @@
+Student: 25/27790
+Verification code: AI-A2-7790
+Seed: 7790
+Rows before cleaning: 243
+SHA-256: 6847b5c21067d694f2d092acf2895a90346352dec7aba76a017997efee68b001

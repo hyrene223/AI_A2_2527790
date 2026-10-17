@@ -1,0 +1,26 @@
+{
+  "student": "Nsabimana Irene",
+  "registration_number": "25/27790",
+  "verification_code": "AI-A2-7790",
+  "target": "yield_tons",
+  "test_rows": 48,
+  "metrics": {
+    "mean_baseline": {
+      "mae": 2.1697930989583334,
+      "rmse": 2.6278895828255115,
+      "r2": -0.012205562316861096
+    },
+    "linear_regression": {
+      "mae": 0.7977363689628523,
+      "rmse": 0.9629400042736614,
+      "r2": 0.8640895183392381
+    },
+    "random_forest": {
+      "mae": 1.0436832143488457,
+      "rmse": 1.2880056818026466,
+      "r2": 0.7568411669136474
+    }
+  },
+  "selected_model": "linear_regression",
+  "selection_reason": "Lowest held-out test RMSE among candidate models."
+}

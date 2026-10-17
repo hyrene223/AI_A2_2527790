@@ -1,0 +1,14 @@
+{
+  "student": "Nsabimana Irene",
+  "registration_number": "25/27790",
+  "verification_code": "AI-A2-7790",
+  "seed": 7790,
+  "dataset_rows": 240,
+  "train_rows": 192,
+  "test_rows": 48,
+  "regression_selected_model": "linear_regression",
+  "classification_selected_model": "random_forest",
+  "selected_cluster_count": 2,
+  "reproducibility": "All model random states fixed at 7790.",
+  "intended_use": "Classroom decision-support prototype using synthetic data only."
+}

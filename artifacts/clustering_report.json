@@ -1,0 +1,48 @@
+{
+  "student": "Nsabimana Irene",
+  "registration_number": "25/27790",
+  "verification_code": "AI-A2-7790",
+  "features": [
+    "rainfall_mm",
+    "avg_temp_c",
+    "soil_moisture_pct",
+    "fertilizer_kg",
+    "field_size_ha",
+    "cooperative_support",
+    "season"
+  ],
+  "silhouette_scores_by_k": {
+    "2": 0.16222923726149557,
+    "3": 0.14044372125703516,
+    "4": 0.1461919482450936,
+    "5": 0.14700826864608685,
+    "6": 0.14588276968401903
+  },
+  "selected_k": 2,
+  "selection_reason": "Highest silhouette score among K=2 to K=6.",
+  "cluster_sizes": {
+    "0": 136,
+    "1": 104
+  },
+  "cluster_profiles": {
+    "0": {
+      "rainfall_mm": 1015.391,
+      "avg_temp_c": 18.54,
+      "soil_moisture_pct": 50.636,
+      "fertilizer_kg": 126.085,
+      "field_size_ha": 2.029,
+      "cooperative_support": 0.0,
+      "yield_tons": 11.502
+    },
+    "1": {
+      "rainfall_mm": 1001.012,
+      "avg_temp_c": 19.404,
+      "soil_moisture_pct": 53.735,
+      "fertilizer_kg": 128.659,
+      "field_size_ha": 2.024,
+      "cooperative_support": 1.0,
+      "yield_tons": 12.256
+    }
+  },
+  "interpretation_note": "Compare cluster averages with overall averages to describe farm conditions. Clusters are exploratory, not risk labels."
+}
